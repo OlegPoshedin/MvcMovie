@@ -1,0 +1,80 @@
+C:\Users\Oleg\source\repos\MvcMovie\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Oleg\source\repos\MvcMovie\bin\Debug\net5.0\appsettings.json
+C:\Users\Oleg\source\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.exe
+C:\Users\Oleg\source\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.deps.json
+C:\Users\Oleg\source\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.runtimeconfig.json
+C:\Users\Oleg\source\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.runtimeconfig.dev.json
+C:\Users\Oleg\source\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.dll
+C:\Users\Oleg\source\repos\MvcMovie\bin\Debug\net5.0\ref\MvcMovie.dll
+C:\Users\Oleg\source\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.pdb
+C:\Users\Oleg\source\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.dll
+C:\Users\Oleg\source\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.pdb
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.csprojAssemblyReference.cache
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfo.cs
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.xml
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\scopedcss\bundle\MvcMovie.styles.css
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.input.cache
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.output.cache
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorCoreGenerate.cache
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cache
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cs
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.Views.pdb
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.dll
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\ref\MvcMovie.dll
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
+C:\Users\Oleg\source\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+D:\Programming\EPAM course\repos\MvcMovie\bin\Debug\net5.0\appsettings.Development.json
+D:\Programming\EPAM course\repos\MvcMovie\bin\Debug\net5.0\appsettings.json
+D:\Programming\EPAM course\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.exe
+D:\Programming\EPAM course\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.deps.json
+D:\Programming\EPAM course\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.runtimeconfig.json
+D:\Programming\EPAM course\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.runtimeconfig.dev.json
+D:\Programming\EPAM course\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.dll
+D:\Programming\EPAM course\repos\MvcMovie\bin\Debug\net5.0\ref\MvcMovie.dll
+D:\Programming\EPAM course\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.pdb
+D:\Programming\EPAM course\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.dll
+D:\Programming\EPAM course\repos\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.pdb
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.csprojAssemblyReference.cache
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfoInputs.cache
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfo.cs
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CoreCompileInputs.cache
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cache
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cs
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.xml
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\scopedcss\bundle\MvcMovie.styles.css
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.input.cache
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.output.cache
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorCoreGenerate.cache
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cache
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cs
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.Views.pdb
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.dll
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\ref\MvcMovie.dll
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
+D:\Programming\EPAM course\repos\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
